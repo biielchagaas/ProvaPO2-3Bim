@@ -1,0 +1,15 @@
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\bin\Debug\net7.0\ProvaPO2-3Bim.exe
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\bin\Debug\net7.0\ProvaPO2-3Bim.deps.json
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\bin\Debug\net7.0\ProvaPO2-3Bim.runtimeconfig.json
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\bin\Debug\net7.0\ProvaPO2-3Bim.dll
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\bin\Debug\net7.0\ProvaPO2-3Bim.pdb
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\obj\Debug\net7.0\ProvaPO2-3Bim.csproj.AssemblyReference.cache
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\obj\Debug\net7.0\ProvaPO2-3Bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\obj\Debug\net7.0\ProvaPO2-3Bim.AssemblyInfoInputs.cache
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\obj\Debug\net7.0\ProvaPO2-3Bim.AssemblyInfo.cs
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\obj\Debug\net7.0\ProvaPO2-3Bim.csproj.CoreCompileInputs.cache
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\obj\Debug\net7.0\ProvaPO2-3Bim.dll
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\obj\Debug\net7.0\refint\ProvaPO2-3Bim.dll
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\obj\Debug\net7.0\ProvaPO2-3Bim.pdb
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\obj\Debug\net7.0\ProvaPO2-3Bim.genruntimeconfig.cache
+C:\Users\2021102020058\source\repos\ProvaPO2-3Bim\obj\Debug\net7.0\ref\ProvaPO2-3Bim.dll
